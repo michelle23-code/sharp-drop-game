@@ -1,5 +1,5 @@
 html {
-	background: rgb(149, 127, 239);
+	background: rgb(238, 130, 238);
 	font-family: "Comfortaa", cursive;
 	color: rgb(60, 60, 60);
 }
@@ -12,7 +12,7 @@ body {
 }
 
 header {
-	background: rgb(222, 192, 241);
+	background: rgb(223, 129, 157);
 	text-align: center;
 	padding: 10px;
 }
@@ -20,7 +20,7 @@ header {
 button {
 	cursor: pointer;
 	background: none;
-	border: 2px solid rgb(149, 127, 239);
+	border: 2px solid rgb(187, 74, 98);
 	padding: 5px 10px;
 	border-radius: 5px;
 }
